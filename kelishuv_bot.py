@@ -45,8 +45,8 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup, Message
 
-BOT_TOKEN = "8709820987:AAFqYogL4-35MRFce5P6S3PemfVGGweZB0Q"
-DB_PATH = "kelishuv.db"
+BOT_TOKEN = "8709820987:AAGx0Haq1eaQ67jMJHMb6mEmDR83vXnpmlo"
+DB_PATH = "BOT_TOKEN"
 
 REWARD_TASK_DONE = 5000
 DEBT_TASK_NOT_DONE = 10000
